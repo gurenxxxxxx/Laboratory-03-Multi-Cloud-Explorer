@@ -16,9 +16,9 @@
 * **Suggested Services:** Vertex AI, Compute Engine (with GPU instances), Cloud Storage.
 
 ### Client D – Global E-Commerce Company
-* **Recommended Platform:** AWS
-* **Justification:** AWS has a worldwide footprint with very strong multi region availability, those data center zones and everything, mature load balancing, and auto-scaling, so global shopping portals stay steady, even when peak usage shows up out of nowhere.
-* **Suggested Services:** Amazon EC2 Auto Scaling, Amazon CloudFront (CDN), Amazon Aurora.
+* **Recommended platform:** AWS  
+* **Justification:** AWS has a global reach , with really solid multi region availability, those data center zones and all the rest, plus matured load balancing and auto scaling. So the global shopping portals keep behaving , even when peak traffic suddenly shows up out of nowhere.  
+* **Suggested services:** Amazon EC2 Auto Scaling, Amazon CloudFront (CDN), Amazon Aurora.
 
 ---
 
