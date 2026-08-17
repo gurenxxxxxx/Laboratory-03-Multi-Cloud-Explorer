@@ -2,13 +2,13 @@
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
-| **Launch Year** | 2006 | 2010 | 2008 |
-| **Compute Service** | EC2 | Virtual Machines | Compute Engine |
-| **Storage Service** | S3 | Blob Storage | Cloud Storage |
-| **Networking Service** | VPC | VNet | Virtual Private Cloud |
-| **Identity Service** | IAM | Microsoft Entra ID | Cloud IAM |
-| **Primary Strength** | Broadest Service Ecosystem | Microsoft Enterprise Integration | Data, AI/ML & Kubernetes |
-| **Ideal Organizations** | Startups to Large Enterprises | Microsoft-centric Enterprises | Tech Startups & Data-Driven Firms |
+| Launch Year | 2006 | 2010 | 2008 |
+| Compute Service | EC2 | Virtual Machines | Compute Engine |
+| Storage Service | S3 | Blob Storage | Cloud Storage |
+| Networking Service | VPC | VNet | Virtual Private Cloud |
+| Identity Service | IAM | Microsoft Entra ID | Cloud IAM |
+| Primary Strength | The most wide ranging catalog of services, kind of like a huge toolkit | Microsoft Enterprise integration, a bit more “inside the ecosystem” | Data & AI/ML plus Kubernetes, all together in one place |
+| Ideal Organizations | Startups, then bigger companies too , up to large enterprises | Enterprises that are already Microsoft-centric , usually with existing habits | Tech startups and data driven teams , especially ones chasing ML and analytics |
 
 ## Analysis Questions
 
