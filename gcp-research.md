@@ -1,11 +1,11 @@
 ## Brief Overview
-Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google, running on the same infrastructure that Google uses internally for its end-user products.
+Google Cloud Platform (GCP) is basically a bundle of cloud computing services, by Google, and they run on the same type infrastructure that Google uses for its own end user products, so it all feels kinda connected from the start.  
 
 ## Global Infrastructure
-GCP leverages Google's ultra-fast private global fiber network, connecting regions and zones worldwide with high throughput and low latency.
+For the global side, GCP uses Google’s very fast private global fiber network, it ties together regions and zones around the world, with high throughput, and low latency, which matters a lot if you care about performance stability.  
 
 ## Cloud Management Console
-The Google Cloud Console provides a clean interface for project management, API administration, and resource management.
+Then there’s the Google Cloud Console, it’s a pretty tidy interface, used for project oversight, API administration, and handling resources without too much friction.  
 
 ## Four (4) Core Services
 - **Google Compute Engine (GCE):** High-performance virtual machines.
